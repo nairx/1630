@@ -12,9 +12,6 @@ def multiplication(n1,n2):
 def division(n1,n2):
     return n1/n2
 
-
-
-
 def calculator(n1,n2):
     a=addition(n1,n2)
     s=subtraction(n1,n2)
