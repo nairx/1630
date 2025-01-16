@@ -1,0 +1,12 @@
+INFO:root:100 was deposited
+INFO:root:The current balance is 100
+INFO:root:200 was deposited
+INFO:root:The current balance is 300
+INFO:root:500 was deposited
+INFO:root:The current balance is 800
+2025-01-16 17:03:55,837 - 100 was deposited
+2025-01-16 17:03:55,838 - The current balance is 100
+2025-01-16 17:03:57,787 - 56 was deposited
+2025-01-16 17:03:57,787 - The current balance is 156
+2025-01-16 17:03:58,656 - 767 was deposited
+2025-01-16 17:03:58,656 - The current balance is 923
