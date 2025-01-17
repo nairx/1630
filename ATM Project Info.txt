@@ -1,0 +1,16 @@
+HDFC ATM Application
+
+1. Incorporate MYSQL DB instead of Objects and Arrays
+
+2. Include Fund Transfer in addition to Deposit, Withdraw and Check Balance
+
+3. New Account creation by Customer
+
+4. Options:
+
+     1. Create Account
+     2. Login
+
+if presses 2 then ask for card# and pin, if success then show Withdraw, Deposit, Balance, Fund Transfer
+
+if presses 1 then Ask Name,Email etc
