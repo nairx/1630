@@ -4,6 +4,6 @@ ds = {
     'score':[67,78,93]
 }
 # d = pd.DataFrame(ds)
-d = pd.DataFrame(ds,index=['Rank3','Rank2','Rank1'])
+d = pd.DataFrame(ds,index=['Maths','Science','English'])
 d.to_csv('marks.csv')
 print(d)
