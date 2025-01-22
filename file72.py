@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 
 class MathQuizApp:
-    def __init__(self, root):
+    def __init__(self, root):  #constructor
         self.root = root
         self.root.title("Math Quiz Application")
         self.root.geometry("900x500")
